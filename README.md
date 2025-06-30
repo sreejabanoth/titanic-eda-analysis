@@ -1,6 +1,5 @@
 # titanic-eda-analysis
-Exploratory Data Analysis on the Titanic Dataset using Python, Pandas
-# Titanic EDA - Data Analyst Task 5
+Exploratory Data Analysis on the Titanic Dataset using Python, Panda
 
 This project is part of my Data Analyst Internship Task . I performed **Exploratory Data Analysis (EDA)** on the Titanic dataset to identify trends, patterns, and relationships.
 
